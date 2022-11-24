@@ -1,0 +1,155 @@
+
+hw2_1NF_invalidPKK1K2
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_1nf_difficult
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_2nf_not3nf
+pk      Y
+1nf     Y
+2nf     Y
+3nf     N
+bcnf    N
+
+hw2_3nf_notbcnf
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    N
+
+hw2_3nf_notbcnf_2
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    N
+
+hw2_bcnf
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    Y
+
+hw2_bcnf_2
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    Y
+
+hw2_compositepk
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    Y
+
+hw2_compositepk_2
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    Y
+
+hw2_compositepk_3: Invalid Input
+
+hw2_easy: Invalid Input
+
+hw2_easy_strings
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    Y
+
+hw2_empty: Empty Table
+
+hw2_invalidPKk_not1NF
+pk      N
+1nf     N
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_large_1
+pk      Y
+1nf     Y
+2nf     Y
+3nf     N
+bcnf    N
+
+hw2_large_2
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_large_3
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_not2nf
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_not2nf_difficult
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_not2nf_easy
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_onerow: Single Row Table
+
+hw2_pkbad_3
+pk      N
+1nf     N
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_pkbad_4
+pk      N
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
+
+hw2_pkeasy
+pk      Y
+1nf     Y
+2nf     Y
+3nf     Y
+bcnf    Y
+
+hw2_strings
+pk      Y
+1nf     Y
+2nf     N
+3nf     N
+bcnf    N
